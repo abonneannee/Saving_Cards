@@ -2,10 +2,11 @@
 ## Lab 3
 
 ### App Description
-`TODO://` Add app description
 
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+This flashcard app lets you create, browse, edit, and delete cards with optional multiple answers and randomized order.
+
+<img src="https://github.com/abonneannee/Saving_Cards/blob/main/WhatsApp%20Video%202024-04-11%20at%2016.46.24_c7cc99f6.gif" width=200><br>
 
 
 - [x] User can create a card and still see their created card when the app is relaunched.
